@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Log Timeline Proxy | Jeff Hube</title>
+        <script type="text/javascript">
+            window.addEventListener("message", function(event) {
+                var keyMatches = window.location.search.match(/t=(\d+)/);
+                if (keyMatches) {
+                    localStorage.setItem('log_data', event.data);
+                    localStorage.setItem('log_id', keyMatches[1]);
+                }
+            }, false);
+            parent.postMessage("apex-timeline-ready", "*");
+        </script>
+    </head>
+    <body></body>
+</html>
