@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Apex Timeline | Jeff Hube</title>
+        <style type="text/css">
+            body { margin: 0; }
+            .drop {
+                height: 100%;
+                padding: 32px;
+                box-sizing: border-box;
+            }
+            .drop-inner {
+                display: none;
+            }
+            .drop .drop-inner {
+                border: 8px dashed #333;
+                width: 100%;
+                height: 100%;
+                box-sizing: border-box;
+                display: table;
+                text-align: center;
+            }
+            .drop .drop-inner p {
+                font-family: sans-serif;
+                font-size: 40px;
+                display: table-cell;
+                vertical-align: middle;
+                color: #333;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="drop" class="drop">
+            <div class="drop-inner">
+                <p>Drag Log Here</p>
+            </div>
+        </div>
+        <script type="text/javascript" src="bundle.js"></script>
+    </body>
+</html>
