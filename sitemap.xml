@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://www.jeffhube.com/resume/</loc> </url>
+<url> <loc>https://www.jeffhube.com/demos/destructible-voxel-terrain/</loc> </url>
+<url> <loc>https://www.jeffhube.com/demos/ray-tracer/</loc> </url>
+<url> <loc>https://www.jeffhube.com/demos/metaballs/</loc> </url>
+<url> <loc>https://www.jeffhube.com/demos/voxel-ray-caster/</loc> </url>
 <url> <loc>https://www.jeffhube.com/blog/2016/04/welcome/</loc> </url>
 <url> <loc>https://www.jeffhube.com/blog/2016/04/salesforce-globals-and-breaking-changes-part-1/</loc> </url>
 <url> <loc>https://www.jeffhube.com/blog/2016/05/salesforce-globals-and-breaking-changes-part-2/</loc> </url>
+<url> <loc>https://www.jeffhube.com/blog/2016/07/fixing-metadata-wsdl/</loc> </url>
 <url> <loc>https://www.jeffhube.com/blog/2017/07/keeping-water-out-of-a-boat/</loc> </url>
 <url> <loc>https://www.jeffhube.com/blog/2019/08/implementing-search-on-a-static-site/</loc> </url>
-<url> <loc>https://www.jeffhube.com/blog/2016/07/fixing-metadata-wsdl/</loc> </url>
 <url> <loc>https://www.jeffhube.com/games/hunter-gatherer/</loc> </url>
-<url> <loc>https://www.jeffhube.com/games/polarity/</loc> </url>
 <url> <loc>https://www.jeffhube.com/games/penguin-panic/</loc> </url>
+<url> <loc>https://www.jeffhube.com/games/polarity/</loc> </url>
 <url> <loc>https://www.jeffhube.com/games/unstitched/</loc> </url>
-<url> <loc>https://www.jeffhube.com/demos/metaballs/</loc> </url>
-<url> <loc>https://www.jeffhube.com/demos/destructible-voxel-terrain/</loc> </url>
-<url> <loc>https://www.jeffhube.com/demos/voxel-ray-caster/</loc> </url>
-<url> <loc>https://www.jeffhube.com/demos/ray-tracer/</loc> </url>
 <url> <loc>https://www.jeffhube.com/</loc> </url>
 <url> <loc>https://www.jeffhube.com/games/</loc> </url>
 <url> <loc>https://www.jeffhube.com/demos/</loc> </url>
